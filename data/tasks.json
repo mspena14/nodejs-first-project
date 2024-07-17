@@ -3,5 +3,15 @@
     "id": 1,
     "title": "Comprar leche",
     "description": "Ir al supermercado y comprar leche"
+  },
+  {
+    "id": 2,
+    "title": "Almorzar",
+    "description": "Esta es una tarea editada con put"
+  },
+  {
+    "id": 4,
+    "title": "Este titulo también lo cambie con put",
+    "description": "Motilarse"
   }
 ]
